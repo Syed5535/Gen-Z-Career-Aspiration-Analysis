@@ -37,7 +37,6 @@ The goal was to understand **career aspirations of Gen-Z** and identify **employ
 
 ## 📂 Project Structure
 
- ```bash
 - `data/` → Raw & cleaned datasets  
 - `sql/` → Database schema & queries  
 - `excel/` → Excel-based analysis & transformations  
