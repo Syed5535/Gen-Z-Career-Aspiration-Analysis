@@ -27,27 +27,27 @@ The goal was to understand **career aspirations of Gen-Z** and identify **employ
 ---
 
 ## 📑 End-to-End Workflow
-1. **Data Collection** → Survey/raw data gathered  
-2. **Data Cleaning** → Performed in Excel  
-3. **Database Setup** → SQL schema + queries  
-4. **Visualization** → Power BI interactive dashboard  
-5. **Presentation** → Final insights deck for stakeholders  
+1. **Data Collection** → Survey/raw data gathered
+2. **Data Cleaning** → Performed in Excel
+3. **Database Setup** → SQL schema + queries
+4. **Visualization** → Power BI interactive dashboard
+5. **Presentation** → Final insights deck for stakeholders
 
 ---
 
 ## 📂 Project Structure
 
-- `data/` → Raw & cleaned datasets  
-- `sql/` → Database schema & queries  
-- `excel/` → Excel-based analysis & transformations  
-- `powerbi/` → Interactive Power BI dashboard  
-- `presentation/` → Final PPT insights deck  
-- `images/` → Screenshots for quick preview  
+- `data/` → Raw & cleaned datasets
+- `excel/` → Excel-based analysis & transformations, Dashboard
+- `sql/` → SQL queries
+- `powerbi/` → Interactive Power BI dashboard
+- `presentation/` → Final PPT insights deck
+- `images/` → Screenshots for quick preview
 
 ---
 
 ## 🔍 Problem Statement (Milestone 1)
-Gen Z feels ignored when pursuing jobs they want, while employers struggle to figure out how to hire or retain them.  
+Gen Z feels ignored when pursuing jobs they want, while employers struggle to figure out how to hire or retain them.
 Key research questions:
 - What industries and roles does Gen Z prefer?
 - What drives Gen Z’s career choices (salary, culture, purpose, work-life balance)?
@@ -64,10 +64,10 @@ Key research questions:
 ---
 
 ## 🧹 Data Cleaning (Milestone 3)
-- Standardized column names & field values  
-- Handled missing/null values  
-- Formatted data types for analysis  
-- Produced a **clean dataset** for further steps  
+- Standardized column names & field values
+- Handled missing/null values
+- Formatted data types for analysis
+- Produced a **clean dataset** for further steps
 
 ---
 
